@@ -83,7 +83,7 @@ function draw() {
   fill("white");
   textFont("Comic Sans");
   text(".Use Arrow to move the fairy", 565, 740);
-  text(".Press own arrow to make the star fall",565, 720);
+  text(".Press down arrow to make the star fall",565, 720);
   drawSprites();
 }
 
